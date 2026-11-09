@@ -1,0 +1,261 @@
+Año,Seguro,Diagnostico,Medida,Valor,Grupo_Diag
+2020,Fonasa,Trastornos mentales,Licencias emitidas,1317222,Trastornos mentales
+2020,Isapre,Trastornos mentales,Licencias emitidas,385934,Trastornos mentales
+2020,Fonasa,Enf. osteomusculares,Licencias emitidas,817278,Enf. osteomusculares
+2020,Isapre,Enf. osteomusculares,Licencias emitidas,183558,Enf. osteomusculares
+2020,Fonasa,Enf. respiratorias,Licencias emitidas,250346,Enf. respiratorias
+2020,Isapre,Enf. respiratorias,Licencias emitidas,91580,Enf. respiratorias
+2020,Fonasa,"Traumatismos, envenenamientos y otros",Licencias emitidas,277947,"Traumatismos, envenenamientos y otros"
+2020,Isapre,"Traumatismos, envenenamientos y otros",Licencias emitidas,85058,"Traumatismos, envenenamientos y otros"
+2020,Fonasa,Enf. infecciosas,Licencias emitidas,137962,Resto de diagnósticos
+2020,Isapre,Enf. infecciosas,Licencias emitidas,55679,Resto de diagnósticos
+2020,Fonasa,Enf. del Sistema Digestivo,Licencias emitidas,138821,Resto de diagnósticos
+2020,Isapre,Enf. del Sistema Digestivo,Licencias emitidas,61795,Resto de diagnósticos
+2020,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,83299,Resto de diagnósticos
+2020,Isapre,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,26452,Resto de diagnósticos
+2020,Fonasa,Enfermedades del Sist. Genito urinario,Licencias emitidas,87925,Resto de diagnósticos
+2020,Isapre,Enfermedades del Sist. Genito urinario,Licencias emitidas,30473,Resto de diagnósticos
+2020,Fonasa,Tumores y Cánceres,Licencias emitidas,90256,Resto de diagnósticos
+2020,Isapre,Tumores y Cánceres,Licencias emitidas,36205,Resto de diagnósticos
+2020,Fonasa,Enf. cardiovasculares,Licencias emitidas,106184,Resto de diagnósticos
+2020,Isapre,Enf. cardiovasculares,Licencias emitidas,23409,Resto de diagnósticos
+2020,Fonasa,COVID-19,Licencias emitidas,730147,COVID-19
+2020,Isapre,COVID-19,Licencias emitidas,178830,COVID-19
+2020,Fonasa,Otros diagnósticos,Licencias emitidas,498144,Resto de diagnósticos
+2020,Isapre,Otros diagnósticos,Licencias emitidas,178745,Resto de diagnósticos
+2020,Fonasa,Sin información,Licencias emitidas,0,Resto de diagnósticos
+2020,Isapre,Sin información,Licencias emitidas,165,Resto de diagnósticos
+2020,Fonasa,Trastornos mentales,Días otorgados,26267718,Trastornos mentales
+2020,Isapre,Trastornos mentales,Días otorgados,7323991,Trastornos mentales
+2020,Fonasa,Enf. osteomusculares,Días otorgados,13343811,Enf. osteomusculares
+2020,Isapre,Enf. osteomusculares,Días otorgados,2775035,Enf. osteomusculares
+2020,Fonasa,Enf. respiratorias,Días otorgados,1959732,Enf. respiratorias
+2020,Isapre,Enf. respiratorias,Días otorgados,598046,Enf. respiratorias
+2020,Fonasa,"Traumatismos, envenenamientos y otros",Días otorgados,5359250,"Traumatismos, envenenamientos y otros"
+2020,Isapre,"Traumatismos, envenenamientos y otros",Días otorgados,1537333,"Traumatismos, envenenamientos y otros"
+2020,Fonasa,Enf. infecciosas,Días otorgados,811174,Resto de diagnósticos
+2020,Isapre,Enf. infecciosas,Días otorgados,248090,Resto de diagnósticos
+2020,Fonasa,Enf. del Sistema Digestivo,Días otorgados,1576525,Resto de diagnósticos
+2020,Isapre,Enf. del Sistema Digestivo,Días otorgados,510723,Resto de diagnósticos
+2020,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,1482678,Resto de diagnósticos
+2020,Isapre,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,426204,Resto de diagnósticos
+2020,Fonasa,Enfermedades del Sist. Genito urinario,Días otorgados,1287355,Resto de diagnósticos
+2020,Isapre,Enfermedades del Sist. Genito urinario,Días otorgados,322182,Resto de diagnósticos
+2020,Fonasa,Tumores y Cánceres,Días otorgados,3028327,Resto de diagnósticos
+2020,Isapre,Tumores y Cánceres,Días otorgados,1031141,Resto de diagnósticos
+2020,Fonasa,Enf. cardiovasculares,Días otorgados,2525730,Resto de diagnósticos
+2020,Isapre,Enf. cardiovasculares,Días otorgados,474636,Resto de diagnósticos
+2020,Fonasa,COVID-19,Días otorgados,6013122,COVID-19
+2020,Isapre,COVID-19,Días otorgados,1535990,COVID-19
+2020,Fonasa,Otros diagnósticos,Días otorgados,9052406,Resto de diagnósticos
+2020,Isapre,Otros diagnósticos,Días otorgados,2860199,Resto de diagnósticos
+2020,Fonasa,Sin información,Días otorgados,0,Resto de diagnósticos
+2020,Isapre,Sin información,Días otorgados,947,Resto de diagnósticos
+2021,Fonasa,Trastornos mentales,Licencias emitidas,2018189,Trastornos mentales
+2021,Isapre,Trastornos mentales,Licencias emitidas,498483,Trastornos mentales
+2021,Fonasa,Enf. osteomusculares,Licencias emitidas,1261626,Enf. osteomusculares
+2021,Isapre,Enf. osteomusculares,Licencias emitidas,251872,Enf. osteomusculares
+2021,Fonasa,Enf. respiratorias,Licencias emitidas,258221,Enf. respiratorias
+2021,Isapre,Enf. respiratorias,Licencias emitidas,87533,Enf. respiratorias
+2021,Fonasa,"Traumatismos, envenenamientos y otros",Licencias emitidas,397978,"Traumatismos, envenenamientos y otros"
+2021,Isapre,"Traumatismos, envenenamientos y otros",Licencias emitidas,111731,"Traumatismos, envenenamientos y otros"
+2021,Fonasa,Enf. infecciosas,Licencias emitidas,154123,Resto de diagnósticos
+2021,Isapre,Enf. infecciosas,Licencias emitidas,52559,Resto de diagnósticos
+2021,Fonasa,Enf. del Sistema Digestivo,Licencias emitidas,214339,Resto de diagnósticos
+2021,Isapre,Enf. del Sistema Digestivo,Licencias emitidas,84088,Resto de diagnósticos
+2021,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,93763,Resto de diagnósticos
+2021,Isapre,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,31634,Resto de diagnósticos
+2021,Fonasa,Enfermedades del Sist. Genito urinario,Licencias emitidas,120640,Resto de diagnósticos
+2021,Isapre,Enfermedades del Sist. Genito urinario,Licencias emitidas,41406,Resto de diagnósticos
+2021,Fonasa,Tumores y Cánceres,Licencias emitidas,105268,Resto de diagnósticos
+2021,Isapre,Tumores y Cánceres,Licencias emitidas,40478,Resto de diagnósticos
+2021,Fonasa,Enf. cardiovasculares,Licencias emitidas,126922,Resto de diagnósticos
+2021,Isapre,Enf. cardiovasculares,Licencias emitidas,27708,Resto de diagnósticos
+2021,Fonasa,COVID-19,Licencias emitidas,1337799,COVID-19
+2021,Isapre,COVID-19,Licencias emitidas,274671,COVID-19
+2021,Fonasa,Otros diagnósticos,Licencias emitidas,660600,Resto de diagnósticos
+2021,Isapre,Otros diagnósticos,Licencias emitidas,223646,Resto de diagnósticos
+2021,Fonasa,Sin información,Licencias emitidas,0,Resto de diagnósticos
+2021,Isapre,Sin información,Licencias emitidas,67,Resto de diagnósticos
+2021,Fonasa,Trastornos mentales,Días otorgados,40494836,Trastornos mentales
+2021,Isapre,Trastornos mentales,Días otorgados,9325612,Trastornos mentales
+2021,Fonasa,Enf. osteomusculares,Días otorgados,19976881,Enf. osteomusculares
+2021,Isapre,Enf. osteomusculares,Días otorgados,3763398,Enf. osteomusculares
+2021,Fonasa,Enf. respiratorias,Días otorgados,2128120,Enf. respiratorias
+2021,Isapre,Enf. respiratorias,Días otorgados,626581,Enf. respiratorias
+2021,Fonasa,"Traumatismos, envenenamientos y otros",Días otorgados,7412134,"Traumatismos, envenenamientos y otros"
+2021,Isapre,"Traumatismos, envenenamientos y otros",Días otorgados,2017969,"Traumatismos, envenenamientos y otros"
+2021,Fonasa,Enf. infecciosas,Días otorgados,924656,Resto de diagnósticos
+2021,Isapre,Enf. infecciosas,Días otorgados,233494,Resto de diagnósticos
+2021,Fonasa,Enf. del Sistema Digestivo,Días otorgados,2390064,Resto de diagnósticos
+2021,Isapre,Enf. del Sistema Digestivo,Días otorgados,702194,Resto de diagnósticos
+2021,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,1739273,Resto de diagnósticos
+2021,Isapre,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,519574,Resto de diagnósticos
+2021,Fonasa,Enfermedades del Sist. Genito urinario,Días otorgados,1681736,Resto de diagnósticos
+2021,Isapre,Enfermedades del Sist. Genito urinario,Días otorgados,435638,Resto de diagnósticos
+2021,Fonasa,Tumores y Cánceres,Días otorgados,3604444,Resto de diagnósticos
+2021,Isapre,Tumores y Cánceres,Días otorgados,1195185,Resto de diagnósticos
+2021,Fonasa,Enf. cardiovasculares,Días otorgados,2943369,Resto de diagnósticos
+2021,Isapre,Enf. cardiovasculares,Días otorgados,549605,Resto de diagnósticos
+2021,Fonasa,COVID-19,Días otorgados,9118427,COVID-19
+2021,Isapre,COVID-19,Días otorgados,1971143,COVID-19
+2021,Fonasa,Otros diagnósticos,Días otorgados,11501467,Resto de diagnósticos
+2021,Isapre,Otros diagnósticos,Días otorgados,3492183,Resto de diagnósticos
+2021,Fonasa,Sin información,Días otorgados,0,Resto de diagnósticos
+2021,Isapre,Sin información,Días otorgados,384,Resto de diagnósticos
+2022,Fonasa,Trastornos mentales,Licencias emitidas,2334567,Trastornos mentales
+2022,Isapre,Trastornos mentales,Licencias emitidas,477790,Trastornos mentales
+2022,Fonasa,Enf. osteomusculares,Licencias emitidas,1279104,Enf. osteomusculares
+2022,Isapre,Enf. osteomusculares,Licencias emitidas,244343,Enf. osteomusculares
+2022,Fonasa,Enf. respiratorias,Licencias emitidas,647617,Enf. respiratorias
+2022,Isapre,Enf. respiratorias,Licencias emitidas,244439,Enf. respiratorias
+2022,Fonasa,"Traumatismos, envenenamientos y otros",Licencias emitidas,431867,"Traumatismos, envenenamientos y otros"
+2022,Isapre,"Traumatismos, envenenamientos y otros",Licencias emitidas,120103,"Traumatismos, envenenamientos y otros"
+2022,Fonasa,Enf. infecciosas,Licencias emitidas,225583,Resto de diagnósticos
+2022,Isapre,Enf. infecciosas,Licencias emitidas,80754,Resto de diagnósticos
+2022,Fonasa,Enf. del Sistema Digestivo,Licencias emitidas,258487,Resto de diagnósticos
+2022,Isapre,Enf. del Sistema Digestivo,Licencias emitidas,105966,Resto de diagnósticos
+2022,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,107632,Resto de diagnósticos
+2022,Isapre,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,33422,Resto de diagnósticos
+2022,Fonasa,Enfermedades del Sist. Genito urinario,Licencias emitidas,138328,Resto de diagnósticos
+2022,Isapre,Enfermedades del Sist. Genito urinario,Licencias emitidas,47337,Resto de diagnósticos
+2022,Fonasa,Tumores y Cánceres,Licencias emitidas,113918,Resto de diagnósticos
+2022,Isapre,Tumores y Cánceres,Licencias emitidas,43101,Resto de diagnósticos
+2022,Fonasa,Enf. cardiovasculares,Licencias emitidas,128139,Resto de diagnósticos
+2022,Isapre,Enf. cardiovasculares,Licencias emitidas,27698,Resto de diagnósticos
+2022,Fonasa,COVID-19,Licencias emitidas,1200051,COVID-19
+2022,Isapre,COVID-19,Licencias emitidas,431265,COVID-19
+2022,Fonasa,Otros diagnósticos,Licencias emitidas,623993,Resto de diagnósticos
+2022,Isapre,Otros diagnósticos,Licencias emitidas,171610,Resto de diagnósticos
+2022,Fonasa,Sin información,Licencias emitidas,0,Resto de diagnósticos
+2022,Isapre,Sin información,Licencias emitidas,470,Resto de diagnósticos
+2022,Fonasa,Trastornos mentales,Días otorgados,47839264,Trastornos mentales
+2022,Isapre,Trastornos mentales,Días otorgados,8647734,Trastornos mentales
+2022,Fonasa,Enf. osteomusculares,Días otorgados,20075250,Enf. osteomusculares
+2022,Isapre,Enf. osteomusculares,Días otorgados,3493033,Enf. osteomusculares
+2022,Fonasa,Enf. respiratorias,Días otorgados,3601628,Enf. respiratorias
+2022,Isapre,Enf. respiratorias,Días otorgados,1146726,Enf. respiratorias
+2022,Fonasa,"Traumatismos, envenenamientos y otros",Días otorgados,8024500,"Traumatismos, envenenamientos y otros"
+2022,Isapre,"Traumatismos, envenenamientos y otros",Días otorgados,2119402,"Traumatismos, envenenamientos y otros"
+2022,Fonasa,Enf. infecciosas,Días otorgados,1040734,Resto de diagnósticos
+2022,Isapre,Enf. infecciosas,Días otorgados,295796,Resto de diagnósticos
+2022,Fonasa,Enf. del Sistema Digestivo,Días otorgados,2668039,Resto de diagnósticos
+2022,Isapre,Enf. del Sistema Digestivo,Días otorgados,772324,Resto de diagnósticos
+2022,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,1965938,Resto de diagnósticos
+2022,Isapre,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,531822,Resto de diagnósticos
+2022,Fonasa,Enfermedades del Sist. Genito urinario,Días otorgados,1797153,Resto de diagnósticos
+2022,Isapre,Enfermedades del Sist. Genito urinario,Días otorgados,462385,Resto de diagnósticos
+2022,Fonasa,Tumores y Cánceres,Días otorgados,3897000,Resto de diagnósticos
+2022,Isapre,Tumores y Cánceres,Días otorgados,1181200,Resto de diagnósticos
+2022,Fonasa,Enf. cardiovasculares,Días otorgados,2972021,Resto de diagnósticos
+2022,Isapre,Enf. cardiovasculares,Días otorgados,530277,Resto de diagnósticos
+2022,Fonasa,COVID-19,Días otorgados,5894624,COVID-19
+2022,Isapre,COVID-19,Días otorgados,2159656,COVID-19
+2022,Fonasa,Otros diagnósticos,Días otorgados,8473396,Resto de diagnósticos
+2022,Isapre,Otros diagnósticos,Días otorgados,1857547,Resto de diagnósticos
+2022,Fonasa,Sin información,Días otorgados,0,Resto de diagnósticos
+2022,Isapre,Sin información,Días otorgados,2413,Resto de diagnósticos
+2023,Fonasa,Trastornos mentales,Licencias emitidas,2173930,Trastornos mentales
+2023,Isapre,Trastornos mentales,Licencias emitidas,366446,Trastornos mentales
+2023,Fonasa,Enf. osteomusculares,Licencias emitidas,1240505,Enf. osteomusculares
+2023,Isapre,Enf. osteomusculares,Licencias emitidas,199574,Enf. osteomusculares
+2023,Fonasa,Enf. respiratorias,Licencias emitidas,858442,Enf. respiratorias
+2023,Isapre,Enf. respiratorias,Licencias emitidas,297137,Enf. respiratorias
+2023,Fonasa,"Traumatismos, envenenamientos y otros",Licencias emitidas,440629,"Traumatismos, envenenamientos y otros"
+2023,Isapre,"Traumatismos, envenenamientos y otros",Licencias emitidas,103180,"Traumatismos, envenenamientos y otros"
+2023,Fonasa,Enf. infecciosas,Licencias emitidas,291045,Resto de diagnósticos
+2023,Isapre,Enf. infecciosas,Licencias emitidas,86181,Resto de diagnósticos
+2023,Fonasa,Enf. del Sistema Digestivo,Licencias emitidas,283057,Resto de diagnósticos
+2023,Isapre,Enf. del Sistema Digestivo,Licencias emitidas,102797,Resto de diagnósticos
+2023,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,102962,Resto de diagnósticos
+2023,Isapre,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,25809,Resto de diagnósticos
+2023,Fonasa,Enfermedades del Sist. Genito urinario,Licencias emitidas,149046,Resto de diagnósticos
+2023,Isapre,Enfermedades del Sist. Genito urinario,Licencias emitidas,42697,Resto de diagnósticos
+2023,Fonasa,Tumores y Cánceres,Licencias emitidas,122118,Resto de diagnósticos
+2023,Isapre,Tumores y Cánceres,Licencias emitidas,43892,Resto de diagnósticos
+2023,Fonasa,Enf. cardiovasculares,Licencias emitidas,127989,Resto de diagnósticos
+2023,Isapre,Enf. cardiovasculares,Licencias emitidas,24810,Resto de diagnósticos
+2023,Fonasa,COVID-19,Licencias emitidas,143723,COVID-19
+2023,Isapre,COVID-19,Licencias emitidas,49254,COVID-19
+2023,Fonasa,Otros diagnósticos,Licencias emitidas,611536,Resto de diagnósticos
+2023,Isapre,Otros diagnósticos,Licencias emitidas,150589,Resto de diagnósticos
+2023,Fonasa,Sin información,Licencias emitidas,0,Resto de diagnósticos
+2023,Isapre,Sin información,Licencias emitidas,220,Resto de diagnósticos
+2023,Fonasa,Trastornos mentales,Días otorgados,43153697,Trastornos mentales
+2023,Isapre,Trastornos mentales,Días otorgados,6499311,Trastornos mentales
+2023,Fonasa,Enf. osteomusculares,Días otorgados,19255238,Enf. osteomusculares
+2023,Isapre,Enf. osteomusculares,Días otorgados,2787638,Enf. osteomusculares
+2023,Fonasa,Enf. respiratorias,Días otorgados,4114307,Enf. respiratorias
+2023,Isapre,Enf. respiratorias,Días otorgados,1173316,Enf. respiratorias
+2023,Fonasa,"Traumatismos, envenenamientos y otros",Días otorgados,8137372,"Traumatismos, envenenamientos y otros"
+2023,Isapre,"Traumatismos, envenenamientos y otros",Días otorgados,1785071,"Traumatismos, envenenamientos y otros"
+2023,Fonasa,Enf. infecciosas,Días otorgados,1118562,Resto de diagnósticos
+2023,Isapre,Enf. infecciosas,Días otorgados,266064,Resto de diagnósticos
+2023,Fonasa,Enf. del Sistema Digestivo,Días otorgados,2737538,Resto de diagnósticos
+2023,Isapre,Enf. del Sistema Digestivo,Días otorgados,682309,Resto de diagnósticos
+2023,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,1919287,Resto de diagnósticos
+2023,Isapre,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,401433,Resto de diagnósticos
+2023,Fonasa,Enfermedades del Sist. Genito urinario,Días otorgados,1829133,Resto de diagnósticos
+2023,Isapre,Enfermedades del Sist. Genito urinario,Días otorgados,386957,Resto de diagnósticos
+2023,Fonasa,Tumores y Cánceres,Días otorgados,4169472,Resto de diagnósticos
+2023,Isapre,Tumores y Cánceres,Días otorgados,1138411,Resto de diagnósticos
+2023,Fonasa,Enf. cardiovasculares,Días otorgados,2963337,Resto de diagnósticos
+2023,Isapre,Enf. cardiovasculares,Días otorgados,467506,Resto de diagnósticos
+2023,Fonasa,COVID-19,Días otorgados,509079,COVID-19
+2023,Isapre,COVID-19,Días otorgados,162230,COVID-19
+2023,Fonasa,Otros diagnósticos,Días otorgados,8258796,Resto de diagnósticos
+2023,Isapre,Otros diagnósticos,Días otorgados,1514790,Resto de diagnósticos
+2023,Fonasa,Sin información,Días otorgados,0,Resto de diagnósticos
+2023,Isapre,Sin información,Días otorgados,1303,Resto de diagnósticos
+2024,Fonasa,Trastornos mentales,Licencias emitidas,2308585,Trastornos mentales
+2024,Isapre,Trastornos mentales,Licencias emitidas,338217,Trastornos mentales
+2024,Fonasa,Enf. osteomusculares,Licencias emitidas,1240517,Enf. osteomusculares
+2024,Isapre,Enf. osteomusculares,Licencias emitidas,182206,Enf. osteomusculares
+2024,Fonasa,Enf. respiratorias,Licencias emitidas,957761,Enf. respiratorias
+2024,Isapre,Enf. respiratorias,Licencias emitidas,290797,Enf. respiratorias
+2024,Fonasa,"Traumatismos, envenenamientos y otros",Licencias emitidas,454048,"Traumatismos, envenenamientos y otros"
+2024,Isapre,"Traumatismos, envenenamientos y otros",Licencias emitidas,95217,"Traumatismos, envenenamientos y otros"
+2024,Fonasa,Enf. infecciosas,Licencias emitidas,347845,Resto de diagnósticos
+2024,Isapre,Enf. infecciosas,Licencias emitidas,90582,Resto de diagnósticos
+2024,Fonasa,Enf. del Sistema Digestivo,Licencias emitidas,303652,Resto de diagnósticos
+2024,Isapre,Enf. del Sistema Digestivo,Licencias emitidas,100005,Resto de diagnósticos
+2024,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,101591,Resto de diagnósticos
+2024,Isapre,"Afecciones del embarazo, Parto y Puerperio",Licencias emitidas,22176,Resto de diagnósticos
+2024,Fonasa,Enfermedades del Sist. Genito urinario,Licencias emitidas,155462,Resto de diagnósticos
+2024,Isapre,Enfermedades del Sist. Genito urinario,Licencias emitidas,40341,Resto de diagnósticos
+2024,Fonasa,Tumores y Cánceres,Licencias emitidas,130746,Resto de diagnósticos
+2024,Isapre,Tumores y Cánceres,Licencias emitidas,42044,Resto de diagnósticos
+2024,Fonasa,Enf. cardiovasculares,Licencias emitidas,129843,Resto de diagnósticos
+2024,Isapre,Enf. cardiovasculares,Licencias emitidas,23831,Resto de diagnósticos
+2024,Fonasa,COVID-19,Licencias emitidas,25571,COVID-19
+2024,Isapre,COVID-19,Licencias emitidas,9515,COVID-19
+2024,Fonasa,Otros diagnósticos,Licencias emitidas,635907,Resto de diagnósticos
+2024,Isapre,Otros diagnósticos,Licencias emitidas,142217,Resto de diagnósticos
+2024,Fonasa,Sin información,Licencias emitidas,0,Resto de diagnósticos
+2024,Isapre,Sin información,Licencias emitidas,123,Resto de diagnósticos
+2024,Fonasa,Trastornos mentales,Días otorgados,45903708,Trastornos mentales
+2024,Isapre,Trastornos mentales,Días otorgados,5909962,Trastornos mentales
+2024,Fonasa,Enf. osteomusculares,Días otorgados,18993011,Enf. osteomusculares
+2024,Isapre,Enf. osteomusculares,Días otorgados,2542155,Enf. osteomusculares
+2024,Fonasa,Enf. respiratorias,Días otorgados,4347555,Enf. respiratorias
+2024,Isapre,Enf. respiratorias,Días otorgados,1094431,Enf. respiratorias
+2024,Fonasa,"Traumatismos, envenenamientos y otros",Días otorgados,8406748,"Traumatismos, envenenamientos y otros"
+2024,Isapre,"Traumatismos, envenenamientos y otros",Días otorgados,1646202,"Traumatismos, envenenamientos y otros"
+2024,Fonasa,Enf. infecciosas,Días otorgados,1224380,Resto de diagnósticos
+2024,Isapre,Enf. infecciosas,Días otorgados,264514,Resto de diagnósticos
+2024,Fonasa,Enf. del Sistema Digestivo,Días otorgados,2815826,Resto de diagnósticos
+2024,Isapre,Enf. del Sistema Digestivo,Días otorgados,624184,Resto de diagnósticos
+2024,Fonasa,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,1899844,Resto de diagnósticos
+2024,Isapre,"Afecciones del embarazo, Parto y Puerperio",Días otorgados,342742,Resto de diagnósticos
+2024,Fonasa,Enfermedades del Sist. Genito urinario,Días otorgados,1875553,Resto de diagnósticos
+2024,Isapre,Enfermedades del Sist. Genito urinario,Días otorgados,364594,Resto de diagnósticos
+2024,Fonasa,Tumores y Cánceres,Días otorgados,4467532,Resto de diagnósticos
+2024,Isapre,Tumores y Cánceres,Días otorgados,1066840,Resto de diagnósticos
+2024,Fonasa,Enf. cardiovasculares,Días otorgados,3016484,Resto de diagnósticos
+2024,Isapre,Enf. cardiovasculares,Días otorgados,451710,Resto de diagnósticos
+2024,Fonasa,COVID-19,Días otorgados,87989,COVID-19
+2024,Isapre,COVID-19,Días otorgados,31195,COVID-19
+2024,Fonasa,Otros diagnósticos,Días otorgados,8361996,Resto de diagnósticos
+2024,Isapre,Otros diagnósticos,Días otorgados,1371182,Resto de diagnósticos
+2024,Fonasa,Sin información,Días otorgados,0,Resto de diagnósticos
+2024,Isapre,Sin información,Días otorgados,1279,Resto de diagnósticos
